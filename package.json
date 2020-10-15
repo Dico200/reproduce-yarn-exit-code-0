@@ -1,0 +1,19 @@
+{
+  "name": "reproduce-yarn-exit-code-0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dico200/reproduce-yarn-exit-code-0",
+  "author": "Dico200 <dico.karssiens@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --max-warnings 0 --ext=js ."
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
